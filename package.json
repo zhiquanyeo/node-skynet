@@ -1,0 +1,9 @@
+{
+    "name": "node-skynet",
+    "version": "0.0.1",
+    "description": "Skynet Endpoint Library for Node JS",
+    "dependencies": {
+        "mqtt": "^1.6.2"
+    },
+    "main": "main.js"
+}
